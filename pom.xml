@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sdetlabs.s44</groupId>
-	<artifactId>E2E_JavaMavenGit_JenkinsFreestyle</artifactId>
+	<artifactId>E2E_JavaMavenGitTestNG_Jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>E2E_JavaMavenGit_JenkinsFreestyle</name>
-	<description>E2E_JavaMavenGit_JenkinsFreestyle</description>
+	<name>E2E_JavaMavenGitTestNG_Jenkins</name>
+	<description>E2E_JavaMavenGitTestNG_Jenkins</description>
 
 	<properties>
 		<maven.compiler.source>17</maven.compiler.source>
